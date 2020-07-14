@@ -1,3 +1,5 @@
+Trivia app built by following : https://shift.infinite.red/creating-a-trivia-app-with-ignite-bowser-part-ii-a286a978d0c8
+
 # ignite_trivia
 
 [![CircleCI](https://circleci.com/gh/infinitered/ignite-bowser.svg?style=svg)](https://circleci.com/gh/infinitered/ignite-bowser)
